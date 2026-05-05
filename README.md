@@ -31,7 +31,8 @@ Retail businesses generate large volumes of sales data, but extracting meaningfu
 
 ## 📸 Dashboard Preview
 
-(Add screenshots from `/images` folder)
+### Overview
+![Overview](images/Dashboard.png)
 
 ---
 
